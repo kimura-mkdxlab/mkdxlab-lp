@@ -1,0 +1,38 @@
+<svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">業務を整理しているデスク</title>
+  <desc id="desc">ノート、書類、パソコン、ペンが置かれた落ち着いた事務作業のイラスト</desc>
+  <rect width="760" height="520" fill="#F7F2EA"/>
+  <rect x="0" y="0" width="760" height="172" fill="#DCE8EF"/>
+  <rect x="72" y="78" width="584" height="364" rx="8" fill="#FFFFFF"/>
+  <rect x="72" y="78" width="584" height="364" rx="8" stroke="#D8D0C4" stroke-width="2"/>
+  <rect x="356" y="138" width="248" height="162" rx="8" fill="#2F3D3B"/>
+  <rect x="372" y="154" width="216" height="116" rx="4" fill="#EEF4F2"/>
+  <rect x="392" y="174" width="70" height="10" rx="3" fill="#AFCBC4"/>
+  <rect x="392" y="198" width="168" height="8" rx="3" fill="#CAD9D5"/>
+  <rect x="392" y="220" width="142" height="8" rx="3" fill="#CAD9D5"/>
+  <rect x="392" y="242" width="156" height="8" rx="3" fill="#CAD9D5"/>
+  <rect x="430" y="300" width="160" height="18" rx="4" fill="#C7BEB2"/>
+  <rect x="148" y="126" width="190" height="240" rx="8" fill="#FDFBF7" stroke="#D8D0C4" stroke-width="2"/>
+  <rect x="170" y="154" width="126" height="12" rx="4" fill="#2F6F63"/>
+  <rect x="170" y="190" width="142" height="8" rx="3" fill="#CABFB0"/>
+  <rect x="170" y="214" width="120" height="8" rx="3" fill="#CABFB0"/>
+  <rect x="170" y="238" width="154" height="8" rx="3" fill="#CABFB0"/>
+  <rect x="170" y="262" width="96" height="8" rx="3" fill="#CABFB0"/>
+  <rect x="170" y="302" width="70" height="42" rx="6" fill="#F0DFD2"/>
+  <path d="M266 319H316" stroke="#B86F42" stroke-width="8" stroke-linecap="round"/>
+  <rect x="118" y="324" width="206" height="86" rx="8" fill="#EAF0EE" stroke="#C7D4D0" stroke-width="2"/>
+  <path d="M144 354H284" stroke="#8BAFA7" stroke-width="7" stroke-linecap="round"/>
+  <path d="M144 378H250" stroke="#AFCBC4" stroke-width="7" stroke-linecap="round"/>
+  <rect x="414" y="348" width="164" height="84" rx="8" fill="#F7E7D9" stroke="#D8C2B0" stroke-width="2"/>
+  <path d="M434 376H552" stroke="#B86F42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M434 400H516" stroke="#D7A17B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M612 164C636 174 646 202 636 226C625 250 598 260 574 250" stroke="#8BAFA7" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="636" cy="174" r="38" fill="#EEF4F2" stroke="#B8CBC7" stroke-width="2"/>
+  <path d="M620 174H652" stroke="#2F6F63" stroke-width="6" stroke-linecap="round"/>
+  <path d="M636 158V190" stroke="#2F6F63" stroke-width="6" stroke-linecap="round"/>
+  <path d="M620 362L664 318" stroke="#2F3D3B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M654 308L682 280" stroke="#B86F42" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="228" cy="88" r="34" fill="#F0DFD2"/>
+  <circle cx="266" cy="86" r="18" fill="#DCE8EF"/>
+  <circle cx="640" cy="388" r="22" fill="#DCE8EF"/>
+</svg>
